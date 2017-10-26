@@ -6,7 +6,7 @@
 # Details::   Specific Populator for Spree Products
 #
 require 'spree_ecom'
-require SpreeLoading
+require 'spree_loading'
 module DataShift
 
   module  SpreeEcom
